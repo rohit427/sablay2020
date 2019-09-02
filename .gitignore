@@ -105,7 +105,3 @@ venv.bak/
 
 
 .DS_Store
-/dataset
-/output
-/initial
-/ODIR-5K
